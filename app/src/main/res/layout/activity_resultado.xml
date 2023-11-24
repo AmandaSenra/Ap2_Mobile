@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo_inicio"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:fillViewport="true"
+    android:padding="30dp"
+    tools:context="com.example.princess.MainActivity">
+
+    <TextView
+        android:id="@+id/tv_resultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Resultado"
+        android:fontFamily="@font/cherry_swash"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:textStyle="bold">
+    </TextView>
+
+    <ImageView
+        android:id="@+id/trofeu"
+        android:layout_width="100dp"
+        android:layout_height="128dp"
+        android:layout_marginTop="16dp"
+        android:contentDescription="imagemTrofeu"
+        android:src="@drawable/trof96">
+    </ImageView>
+
+    <TextView
+        android:id="@+id/parabens"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Parabéns Princesa..."
+        android:fontFamily="@font/cherry_swash"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:textStyle="bold">
+    </TextView>
+
+    <TextView
+        android:id="@+id/nome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:textColor="#ffffff"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        tools:text="Seu nome">
+    </TextView>
+
+    <TextView
+        android:id="@+id/textoFinal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Dedicatória"
+        android:textColor="@android:color/white"
+        android:fontFamily="@font/cherry_swash"
+        android:layout_marginTop="150dp"
+        android:textSize="28sp"
+        android:textStyle="bold">
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Esse app é um projeto da disciplina Dev.Mobile, onde foi criado e dedicado a filha do Mestre, Pricesa Alice."
+        android:textColor="#ffffff"
+        android:fontFamily="@font/cherry_swash"
+        android:layout_marginTop="10dp"
+        android:textSize="16sp">
+    </TextView>
+
+    <Button
+        android:id="@+id/finalBotao"
+        android:layout_width="292dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@android:color/white"
+        android:text="Fim"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18sp"
+        android:textStyle="bold">
+    </Button>
+
+    <ImageButton
+        android:id="@+id/gitHub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/colorPrimary"
+        android:src="@drawable/icon32">
+    </ImageButton>
+
+</LinearLayout>

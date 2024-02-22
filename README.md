@@ -14,7 +14,8 @@
 * [Funcionalidades e demonstração da aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Sobre a atividade](#sobre-a-atividade)
 * [Vez dos alunos](#vez-dos-alunos)
-* [Conclusão](#conclusão)
+* [Autor](#autor)
+* [Licença](#licença)
 
 
 # Descrição do Projeto
@@ -51,16 +52,22 @@ Um pouco do que os alunos montaram nessa atividade.
 
 # Autor
 
+<a href="https://github.com/AmandaSenra">
  <img style="border-radius: 50%;" src="https://github.com/AmandaSenra/Ap2_Mobile/assets/94198321/6174ec1a-ae6c-40fd-ae4c-549440143e01" width="100px;" alt=""/>
  <br />
- <sub><b>Amanda Senra</b></sub></a> <a href="https://github.com/AmandaSenra"></a>
+ <sub><b>Amanda Senra</b></sub></a> <a href="https://github.com/AmandaSenra//"></a>
 
 
-Feito com ❤️ por Thiago Marinho 👋🏽 Entre em contato!
+👋 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Amanda%20Senra-link?style=flat&logo=linkedin&logoColor=%23FFFF&color=%230e76a8
+)](https://www.linkedin.com/in/amanda-senra-183a5526a/) 
+[![Gmail Badge](https://img.shields.io/badge/senraamanda16%40gmail.com-link?style=flat&logo=gmail&logoColor=%23FFFF&color=%23db4a39)](mailto:senraamanda16@gmail.com)
 
 # Licença
+
+
+
+
 
 

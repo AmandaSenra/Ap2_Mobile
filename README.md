@@ -48,15 +48,12 @@ Um pouco do que os alunos montaram nessa atividade.
   <img loading="gif" src="https://github.com/AmandaSenra/Ap2_Mobile/assets/94198321/6e8d26f2-826a-4bf6-8e8f-4287e32ba3fe"/>
 </p>
 
+
 # Autor
 
-### Autor
----
-
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/AmandaSenra/Ap2_Mobile/assets/94198321/6174ec1a-ae6c-40fd-ae4c-549440143e01" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Amanda Senra</b></sub></a> <a href="https://github.com/AmandaSenra"></a>
 
 
 Feito com ❤️ por Thiago Marinho 👋🏽 Entre em contato!

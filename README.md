@@ -29,18 +29,27 @@
 
 
 # Explicação da Aplicação
-<p>O objetivo no primeiro dia de aula dos calouros é fazer com que o código seja divertido e não gere medo, pois para muitos alunos esse é o primeiro contato com um código em definitivo. Então expliquei como montar um design basíco como backgroud e após montamos a lógica da aplicação.</p>
+<p>O objetivo no primeiro dia de aula dos calouros é fazer com que o código seja divertido e não gere medo. Para muitos alunos esse é o primeiro contato com um código em definitivo. Então expliquei como montar um design basíco no android studio e após montamos a lógica da aplicação.</p>
 
-<p>Aqui deixo a lógica em JBSJBJ, como uma forma de explicação.</p>
+<p>Aqui deixo a lógica em Algorítimo, como explicação.</p>
 
->
->fun sortear(view: View) {
-> 
->>val textoResultado = findViewById<TextView>(R.id.resultado)
->>
->>val numero = Random().nextInt(101) //0...99
->>
->>textoResultado.setText("$numero")}
+<code>FUNÇÃO de nome SORTEAR do tipo VIEW {
+    VARIÁVEL de nome TEXTORESULTADO = Obtem referência de uma VIEW do tipo TEXTO por ID
+    VARIÁVEL de nome NUMERO = Gerador Aleatório(). Tipo INTEIRO (de 0 até 100)
+    Atualiza a variável TEXTORESULTADO. Configurando o Texto da variável NUMERO
+}
+</code>
+
+
+
+
+
+fun sortear(view: View) {
+
+val textoResultado = findViewById<TextView>(R.id.resultado)
+
+val numero = Random().nextInt(101) //0...99
+textoResultado.setText("$numero")}
 
 
 
